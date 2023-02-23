@@ -1,0 +1,7 @@
+{
+    "credit": "made by essqresso",
+    "parent": "hanabira:base/handheld48",
+    "textures": {
+        "layer0": "hanabira:twinblade/dragons_agron"
+    }
+}
