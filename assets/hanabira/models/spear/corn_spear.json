@@ -1,0 +1,7 @@
+{
+    "credit": "made by essqresso",
+    "parent": "hanabira:base/handheld64",
+    "textures": {
+        "layer0": "hanabira:spear/corn_spear"
+    }
+}
