@@ -2,6 +2,6 @@
     "credit": "made by essqresso",
     "parent": "hanabira:base/handheld32",
     "textures": {
-        "layer0": "hanabira:hallbert/star_garnet"
+        "layer0": "hanabira:halberd/star_garnet"
     }
 }

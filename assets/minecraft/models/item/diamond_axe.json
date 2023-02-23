@@ -5,7 +5,7 @@
   },
   "overrides": 
   [
-    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:hallbert/zircon"},
-    { "predicate": { "custom_model_data": 2 }, "model": "hanabira:hallbert/star_garnet"}
+    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:halberd/zircon"},
+    { "predicate": { "custom_model_data": 2 }, "model": "hanabira:halberd/star_garnet"}
   ]
 }

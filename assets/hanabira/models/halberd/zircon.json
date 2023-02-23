@@ -2,6 +2,6 @@
     "credit": "made by essqresso",
     "parent": "hanabira:base/handheld32",
     "textures": {
-        "layer0": "hanabira:hallbert/zircon"
+        "layer0": "hanabira:halberd/zircon"
     }
 }
