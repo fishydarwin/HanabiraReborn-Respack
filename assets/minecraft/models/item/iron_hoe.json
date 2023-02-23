@@ -5,6 +5,7 @@
   },
   "overrides": 
   [
-    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:staff/staff0"}
+    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:staff/pink_staff"},
+    { "predicate": { "custom_model_data": 2 }, "model": "hanabira:staff/vining_moon"}
   ]
 }
