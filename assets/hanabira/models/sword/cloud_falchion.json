@@ -1,0 +1,7 @@
+{
+    "credit": "made by darwj",
+    "parent": "hanabira:base/handheld32",
+    "textures": {
+        "layer0": "hanabira:sword/cloud_falchion"
+    }
+}

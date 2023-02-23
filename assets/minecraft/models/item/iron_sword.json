@@ -5,6 +5,7 @@
   },
   "overrides": 
   [
-    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:sword/sword0"}
+    { "predicate": { "custom_model_data": 1 }, "model": "hanabira:sword/blue_sword"},
+    { "predicate": { "custom_model_data": 2 }, "model": "hanabira:sword/cloud_falchion"}
   ]
 }
